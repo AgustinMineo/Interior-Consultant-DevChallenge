@@ -1,0 +1,24 @@
+body{
+    margin: 50px 100px 0px 50px;
+}
+main{
+    min-height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-list > a{
+    text-decoration: none;
+}
+.nav-list >a:hover{
+    border-bottom: 2px solid;
+    padding-bottom: 5px;
+}
+
+.card-position{
+    width: 25.6%;
+    position: absolute;
+    top: 772px;
+    right: 420px;
+}
